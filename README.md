@@ -96,10 +96,10 @@ ex)```https://www.〇〇〇.co.jp/□□□/■■■/△△△?●=▲■&○=�
 
 
 
-[DSMagazine](https://ds-b.jp/media/)
-[ホームページ作成大学](https://www.best-hp.jp/univ/)
-[デジハリONLINE](https://online.dhw.co.jp)
-[アイティーエム](https://www.itmanage.co.jp/)
-[とほほのWWW入門](https://www.tohoho-web.com/www.htm)
-[ITSakura](https://itsakura.com/)
+[DSMagazine](https://ds-b.jp/media/)<br>
+[ホームページ作成大学](https://www.best-hp.jp/univ/)<br>
+[デジハリONLINE](https://online.dhw.co.jp)<br>
+[アイティーエム](https://www.itmanage.co.jp/)<br>
+[とほほのWWW入門](https://www.tohoho-web.com/www.htm)<br>
+[ITSakura](https://itsakura.com/)<br>
 
